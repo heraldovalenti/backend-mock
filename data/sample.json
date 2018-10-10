@@ -1,0 +1,12 @@
+{
+    "apps" : [
+        "Sublime",
+        "Notepad++",
+        "Notepad",
+        "Wordpad"
+    ],
+    "langs" : [
+        "JS",
+        "Java"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "backend-mock",
+  "version": "1.0.0",
+  "description": "A simple backend mock",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "backend",
+    "mock"
+  ],
+  "author": "Heraldo Valenti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
